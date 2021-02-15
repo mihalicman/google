@@ -55,7 +55,7 @@
 <input type="submit" value="search">
 </form></o>
 
-<center><img src="google.png" width="269" height="92"style="position:absolute;
+<center><img src="https://www.google.ru/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="269" height="92"style="position:absolute;
 left:45%; top:20%"></center>
 
 </body>
